@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asfiwaquar1764
+- 👋 Hi, I’m Waquar Asfi
 - 👀 I’m interested in ... python 
-- 🌱 I’m currently learning ...R-Language
+- 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ... Google 
 - 📫 How to reach me ...
 
